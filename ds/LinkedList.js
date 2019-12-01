@@ -8,8 +8,8 @@ class ListNode {
 
 class LinkedList {
     constructor() {
-        this.head = null;
-        this.tail = null;
+        this.head = null
+        this.tail = null
     }
 
     setHead(node) {
