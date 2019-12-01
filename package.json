@@ -1,0 +1,15 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "Implementation of data structures with JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --watch test"
+  },
+  "author": "Harry C",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.2"
+  }
+}
