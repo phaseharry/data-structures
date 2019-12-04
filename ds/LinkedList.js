@@ -1,6 +1,6 @@
 class ListNode {
     constructor(value) {
-        this.val = value
+        this.value = value
         this.next = null
         this.prev = null
     }
